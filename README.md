@@ -17,10 +17,6 @@ This is an online coffee shop built in Kotlin using Android Studio.
 ## App Flow
 This application has 6 pages.
 
-1.Flavia Kurz - 222114592
-2.Nelumbu Paskaris - 221061010
-3.Nakaleke Fillemon - 223098523
-4.Lorraine Mwoyounotsva - 222119578
 ### 1. Splash Screen
 - Brief loading screen with Brewly logo
 - Transitions automatically to the Welcome page
@@ -57,7 +53,7 @@ This application has 6 pages.
 - User details display
 - Log out option
 
-### 9. Team
+## Team
 
 - Flavia Kurz - 222114592
 - Nelumbu Paskaris - 221061010 
