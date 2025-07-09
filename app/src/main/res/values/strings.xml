@@ -1,6 +1,14 @@
 <resources>
+
+    <string name="logotext">Brewly Coffee</string>
+    <string name="get_started">Get Started</string>
     <string name="app_name">BrewlyCoffee</string>
-    <string name="welcome">WELCOME</string>
-    <string name="logotext">brewly</string>
-    <string name="get_started">GET STARTED</string>
+    <string name="brewly_coffee_logo">Brewly Coffee Logo</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+
 </resources>
