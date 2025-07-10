@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         val getStartedButton: Button = findViewById(R.id.button)
         getStartedButton.setOnClickListener {
             supportFragmentManager.beginTransaction()
-                .replace(R.id.main, Welcome())
+                .replace(R.id.main, WelcomeFragment())
                 .addToBackStack(null)
                 .commit()
         }
